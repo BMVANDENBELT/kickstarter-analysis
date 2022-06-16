@@ -24,7 +24,7 @@ Unlike the Outcomes based on launch date graph, the Outcomes based on goals line
   *Second analysis* 
   From 15k to 19999k, 50% of all plays are successful here. Naturally the other 50% fail at that price range. However, any play priced below that has a better chance at success based on the percentages displayed. At 35k to 39999k, we have a higher priced kickstarter but it only lasts until 50k and anything after that has no success percentage.
 
-![Outcomes_vs_Goals.png](/Outcomes_vs_Goals.png) 
+![Outcomes_vs_Goals.png](/Users/braedenvandenbelt/Desktop/Resources/Outcomes_vs_Goals.png)
 
 #Limitations
 - As far as limitations go, one thing that stands out to me the most is that there is only a select time frame of the years 2009-2017. If we truly wanted to see how Kickstarter campaigns fair in the summer months, maybe we should have looked at two decades instead of just 8 years. The more data you get, the more robust your visualizations will be, the better analysis you'll get. 
